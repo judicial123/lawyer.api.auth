@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "6HJMUxXb8NR58tsT2uH+yYHuT3XDyiTlnSADGXwjnvo=",
+  "Source": "lawyer.api.auth.webapi",
+  "BasePath": "_content/lawyer.api.auth.webapi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

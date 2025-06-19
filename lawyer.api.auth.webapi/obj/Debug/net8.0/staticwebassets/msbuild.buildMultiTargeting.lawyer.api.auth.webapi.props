@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/lawyer.api.auth.webapi.props" />
+</Project>

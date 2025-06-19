@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lawyer.api.auth.datastore.mssql", "lawyer.api.auth.datastore.mssql\lawyer.api.auth.datastore.mssql.csproj", "{88170CD4-4B70-4601-A961-D470844C8600}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lawyer.api.auth.application", "lawyer.api.auth.application\lawyer.api.auth.application.csproj", "{10CDF264-1C3D-4899-9DAE-58FF95332F1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lawyer.api.auth.webapi", "lawyer.api.auth.webapi\lawyer.api.auth.webapi.csproj", "{19C63B95-21E5-4970-8723-0877AC9CA5D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88170CD4-4B70-4601-A961-D470844C8600}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88170CD4-4B70-4601-A961-D470844C8600}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88170CD4-4B70-4601-A961-D470844C8600}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88170CD4-4B70-4601-A961-D470844C8600}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10CDF264-1C3D-4899-9DAE-58FF95332F1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10CDF264-1C3D-4899-9DAE-58FF95332F1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10CDF264-1C3D-4899-9DAE-58FF95332F1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10CDF264-1C3D-4899-9DAE-58FF95332F1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19C63B95-21E5-4970-8723-0877AC9CA5D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19C63B95-21E5-4970-8723-0877AC9CA5D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19C63B95-21E5-4970-8723-0877AC9CA5D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19C63B95-21E5-4970-8723-0877AC9CA5D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,17 @@
+/Users/luisvillarroel/Documents/Lawyer/lawyer.api.auth/lawyer.api.auth.datastore.mssql/bin/Debug/net8.0/lawyer.api.auth.datastore.mssql.deps.json
+/Users/luisvillarroel/Documents/Lawyer/lawyer.api.auth/lawyer.api.auth.datastore.mssql/bin/Debug/net8.0/lawyer.api.auth.datastore.mssql.runtimeconfig.json
+/Users/luisvillarroel/Documents/Lawyer/lawyer.api.auth/lawyer.api.auth.datastore.mssql/bin/Debug/net8.0/lawyer.api.auth.datastore.mssql.dll
+/Users/luisvillarroel/Documents/Lawyer/lawyer.api.auth/lawyer.api.auth.datastore.mssql/bin/Debug/net8.0/lawyer.api.auth.datastore.mssql.pdb
+/Users/luisvillarroel/Documents/Lawyer/lawyer.api.auth/lawyer.api.auth.datastore.mssql/bin/Debug/net8.0/lawyer.api.auth.application.dll
+/Users/luisvillarroel/Documents/Lawyer/lawyer.api.auth/lawyer.api.auth.datastore.mssql/bin/Debug/net8.0/lawyer.api.auth.application.pdb
+/Users/luisvillarroel/Documents/Lawyer/lawyer.api.auth/lawyer.api.auth.datastore.mssql/obj/Debug/net8.0/lawyer.api.auth.datastore.mssql.csproj.AssemblyReference.cache
+/Users/luisvillarroel/Documents/Lawyer/lawyer.api.auth/lawyer.api.auth.datastore.mssql/obj/Debug/net8.0/lawyer.api.auth.datastore.mssql.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luisvillarroel/Documents/Lawyer/lawyer.api.auth/lawyer.api.auth.datastore.mssql/obj/Debug/net8.0/lawyer.api.auth.datastore.mssql.AssemblyInfoInputs.cache
+/Users/luisvillarroel/Documents/Lawyer/lawyer.api.auth/lawyer.api.auth.datastore.mssql/obj/Debug/net8.0/lawyer.api.auth.datastore.mssql.AssemblyInfo.cs
+/Users/luisvillarroel/Documents/Lawyer/lawyer.api.auth/lawyer.api.auth.datastore.mssql/obj/Debug/net8.0/lawyer.api.auth.datastore.mssql.csproj.CoreCompileInputs.cache
+/Users/luisvillarroel/Documents/Lawyer/lawyer.api.auth/lawyer.api.auth.datastore.mssql/obj/Debug/net8.0/lawyer.a.6521DA4F.Up2Date
+/Users/luisvillarroel/Documents/Lawyer/lawyer.api.auth/lawyer.api.auth.datastore.mssql/obj/Debug/net8.0/lawyer.api.auth.datastore.mssql.dll
+/Users/luisvillarroel/Documents/Lawyer/lawyer.api.auth/lawyer.api.auth.datastore.mssql/obj/Debug/net8.0/refint/lawyer.api.auth.datastore.mssql.dll
+/Users/luisvillarroel/Documents/Lawyer/lawyer.api.auth/lawyer.api.auth.datastore.mssql/obj/Debug/net8.0/lawyer.api.auth.datastore.mssql.pdb
+/Users/luisvillarroel/Documents/Lawyer/lawyer.api.auth/lawyer.api.auth.datastore.mssql/obj/Debug/net8.0/lawyer.api.auth.datastore.mssql.genruntimeconfig.cache
+/Users/luisvillarroel/Documents/Lawyer/lawyer.api.auth/lawyer.api.auth.datastore.mssql/obj/Debug/net8.0/ref/lawyer.api.auth.datastore.mssql.dll
